@@ -11,6 +11,7 @@ Houston Campus:
 <img width="1289" alt="Houston Logical" src="https://github.com/aakbarjon/Campus-LAN-Network/assets/99519116/92ffaef1-aeb3-44fa-8e72-5997e5f54f69">
 
 Austin Campus:
+
 <img width="490" alt="Austin Logical" src="https://github.com/aakbarjon/Campus-LAN-Network/assets/99519116/67970683-3603-4c77-b993-976b527d1c47">
 
 
@@ -29,6 +30,7 @@ Houston Campus:
 Austin Campus:
 
 <img width="867" alt="Austin Campus" src="https://github.com/aakbarjon/Campus-LAN-Network/assets/99519116/20396aa6-c58a-4a8d-8d3e-64dbccd95d1d">
+
 
 
 
