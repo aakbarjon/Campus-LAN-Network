@@ -1,18 +1,20 @@
 # Campus-LAN-Network
 
-Logical Topology:
+**Logical Topology:**
 
 Whole Network:
+
 <img width="1319" alt="Logical View" src="https://github.com/aakbarjon/Campus-LAN-Network/assets/99519116/793259da-9138-49f2-885f-2208704d2d6a">
 
 Houston Campus:
+
 <img width="1289" alt="Houston Logical" src="https://github.com/aakbarjon/Campus-LAN-Network/assets/99519116/92ffaef1-aeb3-44fa-8e72-5997e5f54f69">
 
 Austin Campus:
 <img width="490" alt="Austin Logical" src="https://github.com/aakbarjon/Campus-LAN-Network/assets/99519116/67970683-3603-4c77-b993-976b527d1c47">
 
 
-Physical View:
+**Physical Topology:**
 
 Whole Network:
 
@@ -29,11 +31,14 @@ Austin Campus:
 <img width="867" alt="Austin Campus" src="https://github.com/aakbarjon/Campus-LAN-Network/assets/99519116/20396aa6-c58a-4a8d-8d3e-64dbccd95d1d">
 
 
-Devices used in the network design.
+
+**Devices used in the network design.**
+
 Cisco ISR Routers 2911:
 
 
 <img width="245" alt="image" src="https://github.com/aakbarjon/Campus-LAN-Network/assets/99519116/4d607f0f-bfea-45ba-bdb9-65cf7114526e">
+
 
     
 Cisco Switch 2960:
