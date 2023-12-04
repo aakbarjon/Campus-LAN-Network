@@ -30,6 +30,7 @@ Routers:
 Houston and Austin Campuses are connected via Wide Area Network (WAN) and have been configured with Open Shortest Path First Routing Protocol. Each Router interface have been assigned with proper IPv4 address using /30 prefix. 
 
 Conclusion:
+
 This Hiararchiel Network is fully operational, network communication between devices have been tested and verified. Feel free to download Packet Tracer File and explore the Logical and Physical Topologies of the Network. You may customize and make any relevant changes to the network as you wish. 
 
 
