@@ -22,10 +22,11 @@ The network is 2-tier network consisting of Access and Core Switches. There are 
   Vlan 10 - 192.168.1.0/24
   Vlan 20 - 192.168.2.0/24
   Vlan 30 - 192.168.3.0/24
-  Etc..
+  ,etc..
 
 
 Routers:
+
 Houston and Austin Campuses are connected via Wide Area Network (WAN) and have been configured with Open Shortest Path First Routing Protocol. Each Router interface have been assigned with proper IPv4 address using /30 prefix. 
 
 Conclusion:
