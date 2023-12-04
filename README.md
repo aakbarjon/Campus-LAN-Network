@@ -14,7 +14,7 @@ Email server of the University hosted Externally on the Cloud
 Technical Report of the Network Design:
 
 Access Switches:
-Switch ports have been configured in proper VLANs meeting network requirements. Port Security have been enabled on all the switch interfaces to add extra layer of security to the network. In addition, all unused ports have been shut down to prevent unauthorized access and cyber attacks. Portfast feauture is on access ports to eliminate the delay in the STP (Spanning Tree Protocol) blocking state. It helps in reducing the time it takes for devices to become operational after being connected to the network. BPDU Guard Security feature have been enabled to protect the network against misconfigurations or potential loops caused by unauthorized switches being connected to ports configured with PortFast. The uplink interfaces of the Access Switches have been configured as trunk ports and connected to the Multilayer Switch. Total of 10 Vlans have been created for the University for better security and easy manageability.
+Switch ports have been configured in proper VLANs meeting network requirements. Port Security have been enabled on all the switch interfaces to add extra layer of security to the network. In addition, all unused ports have been shut down to prevent unauthorized access and cyber attacks. Portfast feauture is on access ports to eliminate the delay in the STP (Spanning Tree Protocol) blocking state. It helps in reducing the time it takes for devices to become operational after being connected to the network. BPDU Guard Security feature have been enabled to protect the network against misconfigurations or potential loops caused by unauthorized switches being connected to ports configured with PortFast. The 'enable secret' password is set to ensure that only authorized personnel can access the device's privileged mode. This prevents unauthorized configuration changes or access to critical settings that can impact the network. The uplink interfaces of the Access Switches have been configured as trunk ports and connected to the Multilayer Switch. Total of 10 Vlans have been created for the University for better security and easy manageability.
 
 Multilayer Switch:
 
@@ -27,7 +27,7 @@ The network is 2-tier network consisting of Access and Core Switches. There are 
 
 Routers:
 
-Houston and Austin Campuses are connected via Wide Area Network (WAN) and have been configured with Open Shortest Path First Routing Protocol. Each Router interface have been assigned with proper IPv4 address using /30 prefix. 
+Houston and Austin Campuses are connected via Wide Area Network (WAN) and have been configured with Open Shortest Path First Routing Protocol. Each Router interface have been assigned with proper IPv4 address using /30 prefix. Total of 3 routers have been configured including Cloud Router as there's no actual Internet connection feauture in Packet Tracer.
 
 Conclusion:
 
