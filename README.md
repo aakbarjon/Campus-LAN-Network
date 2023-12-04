@@ -6,8 +6,8 @@ Description:
 University Campus Network Topology have been designed and implemented in Packet Tracer. All network devices used in this project are Cisco Devices. University has two campuses with many buildings located in Houston and Austin areas. I have created both logical and physical network layouts for this university.	In Houston Campus there are several buildings such as:
 -Administration Building: Administrative staff in the departments of management, HR and finance. The admin staff PCs are distributed in the building offices and it is expected that they will share some networking equipment.The Faculty of Business is also situated in this building 
 - Academic Building: College of Engineering and College of Art.
-- Library & IT Room: Students’ labs and IT department. The IT department hosts the University Web Server and other relevant servers. 
-
+- Library & IT Room: Students’ labs and IT department. The IT department hosts the University Web, DNS, and FTP Servers.
+  
 In Austin Campus there is only 1 building with 2 floors. 2 Access Switches, 1 Multilayer 3 and 1 Router have been deployed. Email server of the University hosted Externally on the Cloud 
 
 
